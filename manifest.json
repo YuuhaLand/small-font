@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-    "name": "日本語フォントを小さくする",
-    "description": "大きくなった日本語フォントを小さくする！\nグロリソ禁止ワールドでも機能します！\nby YuuhaLand",
+    "name": "日本語フォントを小さくする +",
+    "description": "大きくなった日本語フォントを小さくする！ +文字化け改善！\nグロリソ禁止ワールドでも機能します！\nby YuuhaLand",
     "uuid": "88c84c3a-155f-431d-99ba-ed9de52c8475",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "min_engine_version": [ 1, 13, 0 ],
     "pack_scope": "global"
   },
@@ -12,7 +12,7 @@
     {
       "type": "resources",
       "uuid": "43cb7480-df54-4b7a-9a72-dab4a58d3925",
-      "version": [ 1, 0, 0 ]
+      "version": [ 1, 0, 1 ]
     }
   ]
 }
